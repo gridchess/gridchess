@@ -1,4 +1,4 @@
-# gridchess.com
+# [gridchess.com](https://gridchess.com)
 
 > Review chess positions on a grid
 
